@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: python-azure
+  annotations:
+    github.com/project-slug: clarkjo-vmware/python-azure
+spec:
+  type: other
+  lifecycle: unknown
+  owner: clarkjo-vmware
